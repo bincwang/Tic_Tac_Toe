@@ -1,0 +1,26 @@
+#anchor {
+    -fx-font-size: 20px;
+    -fx-font-family: sans-serif;
+    -fx-background-color: #E8CCCC;
+    -fx-padding: 20px;
+}
+
+Button {
+    -fx-min-width: 50;
+    -fx-min-height: 50;
+    -fx-background-color: limegreen;
+}
+
+#restart {
+    -fx-min-width: 170;
+    -fx-background-color: aqua;
+    -fx-font-size: 20px;
+    -fx-font-family: sans-serif;
+}
+
+#switch{
+    -fx-min-width: 170;
+    -fx-background-color: grey;
+    -fx-font-size: 20px;
+    -fx-font-family: sans-serif;
+}
